@@ -1,0 +1,10 @@
+.card{
+margin: 10px;
+}
+.cards{
+ width: 50%;
+ justify-content: center;
+}.header{
+    width: 40%;
+    margin-top: 80px;
+}
